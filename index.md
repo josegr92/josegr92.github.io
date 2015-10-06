@@ -6,4 +6,4 @@ tagline: josegr92.github.io
 ---
 # Bienvenido
 
-* [ABOUTME](about/)
+* [ABOUTME](about/about)
